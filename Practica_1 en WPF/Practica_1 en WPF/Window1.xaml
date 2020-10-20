@@ -1,0 +1,28 @@
+﻿<Window x:Class="Practica_1_en_WPF.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practica_1_en_WPF"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid Background="DarkOliveGreen">
+        <Label Content="DNI" HorizontalAlignment="Left" Margin="521,24,0,0" VerticalAlignment="Top" Height="29" Width="75"/>
+        <Image Margin="26,42,304.6,64" Source="forms2.jpeg" Stretch="Fill"/>
+        <Label Content="Altura (cm)" HorizontalAlignment="Left" Margin="521,181,0,0" VerticalAlignment="Top" Height="29" Width="75"/>
+        <Label Content="Apellidos" HorizontalAlignment="Left" Margin="521,127,0,0" VerticalAlignment="Top" Height="29" Width="75"/>
+        <Label Content="Nombre" HorizontalAlignment="Left" Margin="521,77,0,0" VerticalAlignment="Top" Height="29" Width="75"/>
+        <Label Content="Edad" HorizontalAlignment="Left" Margin="521,283,0,0" VerticalAlignment="Top" Height="29" Width="75"/>
+        <Label Content="Peso" HorizontalAlignment="Left" Margin="521,232,0,0" VerticalAlignment="Top" Height="29" Width="75"/>
+        <Label Content="Fecha Nacimiento" HorizontalAlignment="Left" Margin="521,327,0,0" VerticalAlignment="Top" Height="29" Width="113"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="639,28,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged" x:Name="textbox1"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="639,77,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged_1" x:Name="textBox2"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="639,127,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged_2" x:Name="textBox3"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="639,181,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged_3" x:Name="textBox4"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="639,238,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged_4" x:Name="textBox5"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="639,287,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged_5" x:Name="textBox6"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="639,331,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged_6" x:Name="textBox7"/>
+        <Button Content="Registrar" HorizontalAlignment="Left" Margin="561,381,0,0" VerticalAlignment="Top" Width="85" Height="29" Background="Black" Foreground="LimeGreen" Click="Button_Click"/>
+
+    </Grid>
+</Window>
