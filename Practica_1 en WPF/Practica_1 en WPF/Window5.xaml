@@ -6,7 +6,11 @@
         xmlns:local="clr-namespace:Practica_1_en_WPF"
         mc:Ignorable="d"
         Title="Window5" Height="450" Width="800">
-    <Grid>
-        
+    <Grid Background="DarkOliveGreen">
+        <Button Content="Salir" HorizontalAlignment="Left" Margin="702,386,0,0" VerticalAlignment="Top" Width="82" Height="24" Background="Black" Foreground="LimeGreen" x:Name="btnsalir" Click="btnsalir_Click"/>
+        <Label Content="Personas a las cuales les falta algun dato" HorizontalAlignment="Left" Margin="10,26,0,0" VerticalAlignment="Top" FontSize="40"/>
+        <ListBox HorizontalAlignment="Left" Height="241" Margin="10,117,0,0" VerticalAlignment="Top" Width="774" x:Name="lista" SelectionChanged="lista_SelectionChanged"/>
+
+
     </Grid>
 </Window>

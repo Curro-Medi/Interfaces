@@ -6,7 +6,13 @@
         xmlns:local="clr-namespace:Practica_1_en_WPF"
         mc:Ignorable="d"
         Title="Window3" Height="450" Width="800">
-    <Grid>
-        
+    <Grid Background="DarkOliveGreen">
+        <Button Content="Consultar" HorizontalAlignment="Left" Margin="506,186,0,0" VerticalAlignment="Top" Width="154" Height="28" Background="Black" Foreground="LimeGreen" Click="Button_Click_3" x:Name="btnconsul"/>
+        <Label Content="Búsqueda" HorizontalAlignment="Left" Margin="481,87,0,0" VerticalAlignment="Top" Height="33" Width="105" FontSize="15"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="481,139,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="203" TextChanged="TextBox_TextChanged" x:Name="textbox1"/>
+        <Image Margin="10,87,399.6,82" Source="dni.png" Stretch="Fill"/>
+        <Button Content="Salir" HorizontalAlignment="Left" Margin="709,388,0,0" VerticalAlignment="Top" Width="75" Background="Black" Foreground="LimeGreen" x:Name="btnsalir" Click="btnsalir_Click" Height="22"/>
+        <ListBox HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="342" Margin="425,252,0,0" x:Name="lista" SelectionChanged="lista_SelectionChanged"/>
+
     </Grid>
 </Window>

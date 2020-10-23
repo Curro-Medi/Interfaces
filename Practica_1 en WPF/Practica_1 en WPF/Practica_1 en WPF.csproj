@@ -143,5 +143,11 @@
   <ItemGroup>
     <Resource Include="forms2.jpeg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dni.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="dni.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

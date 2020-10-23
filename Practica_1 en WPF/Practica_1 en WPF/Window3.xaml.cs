@@ -29,8 +29,48 @@ namespace Practica_1_en_WPF
 
         public Window3(List<Persona> listapersonas, MainWindow mainWindow)
         {
+            InitializeComponent();
             this.listapersonas = listapersonas;
             this.mainWindow = mainWindow;
+        }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void Button_Click_3(object sender, RoutedEventArgs e)
+        {
+            Boolean encontrado = false;
+
+            for (int i = 0; i < listapersonas.Count(); i++)
+            {
+
+
+                if (listapersonas[i].DNI1 == textbox1.Text)
+                {
+                    lista.Items.Add(listapersonas[i].ToString());
+                    encontrado = true;
+                }
+
+
+            }
+            if (encontrado == false)
+            {
+                MessageBox.Show("Persona no encontrada");
+            }
+            encontrado = false;
+        }
+
+        private void btnsalir_Click(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+            mainWindow.Show();
+        }
+
+        private void lista_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
         }
     }
 }

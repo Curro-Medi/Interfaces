@@ -63,6 +63,16 @@ namespace Practica_1_en_WPF.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap dni {
+            get {
+                object obj = ResourceManager.GetObject("dni", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap forms2 {
             get {
                 object obj = ResourceManager.GetObject("forms2", resourceCulture);

@@ -29,8 +29,34 @@ namespace Practica_1_en_WPF
 
         public Window5(List<Persona> listapersonas, MainWindow mainWindow)
         {
+            InitializeComponent();
             this.listapersonas = listapersonas;
             this.mainWindow = mainWindow;
+
+            int cont = 0;
+
+
+            for (int i = 0; i < listapersonas.Count(); i++)
+            {
+                if (listapersonas[i].Apellidos.Equals("") || listapersonas[i].Nombre.Equals("") ||
+                    listapersonas[i].DNI1.Equals("") || listapersonas[i].Fecha_nac.Equals(""))
+                {
+                    cont = cont + 1;
+                    lista.Items.Add(cont + ")  " + listapersonas[i]);
+                }
+            }
+
+        }
+
+        private void lista_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
+
+        private void btnsalir_Click(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+            mainWindow.Show();
         }
     }
 }
