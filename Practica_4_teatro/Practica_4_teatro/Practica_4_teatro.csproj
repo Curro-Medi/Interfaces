@@ -37,6 +37,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
@@ -63,6 +64,11 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Sala.cs" />
     <Compile Include="Asientos.cs" />
     <Compile Include="MainWindow.xaml.cs">
@@ -73,11 +79,6 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -95,6 +96,36 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="fondohall.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forms2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondohall.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unavisitainesperada.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crimenperfecto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lasoga.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cuartovero.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="unavisitainesperada.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Lasoga.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="cuartovero.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
