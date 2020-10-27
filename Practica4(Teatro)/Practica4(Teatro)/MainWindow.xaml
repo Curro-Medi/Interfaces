@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Practica4_Teatro_"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
+    <Grid >
+        <Label Content="" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="774"/>
     </Grid>
 </Window>
