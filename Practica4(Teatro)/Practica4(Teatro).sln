@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica4", "Practica4\Practica4.csproj", "{ABD0B96A-0232-4917-ADEC-0C6B448D5620}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica4(Teatro)", "Practica4(Teatro)\Practica4(Teatro).csproj", "{8EF7DD0C-E369-4F24-9B22-48D3CE8B9039}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ABD0B96A-0232-4917-ADEC-0C6B448D5620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ABD0B96A-0232-4917-ADEC-0C6B448D5620}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ABD0B96A-0232-4917-ADEC-0C6B448D5620}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ABD0B96A-0232-4917-ADEC-0C6B448D5620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EF7DD0C-E369-4F24-9B22-48D3CE8B9039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF7DD0C-E369-4F24-9B22-48D3CE8B9039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF7DD0C-E369-4F24-9B22-48D3CE8B9039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF7DD0C-E369-4F24-9B22-48D3CE8B9039}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {12FEAE77-3606-4AC7-97F5-678998BD5F0B}
+		SolutionGuid = {45E4BDB2-DE3D-405E-9E86-E7BF330D45DD}
 	EndGlobalSection
 EndGlobal

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Practica4.Properties
+namespace Practica4_Teatro_.Properties
 {
 
 
