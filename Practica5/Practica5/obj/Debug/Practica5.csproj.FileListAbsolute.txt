@@ -1,0 +1,38 @@
+C:\Users\Curro\source\repos\Practica5\Practica5\obj\Debug\Practica5.csprojAssemblyReference.cache
+C:\Users\Curro\source\repos\Practica5\Practica5\obj\Debug\Horas.g.cs
+C:\Users\Curro\source\repos\Practica5\Practica5\obj\Debug\MainWindow.g.cs
+C:\Users\Curro\source\repos\Practica5\Practica5\obj\Debug\Teatro.g.cs
+C:\Users\Curro\source\repos\Practica5\Practica5\obj\Debug\App.g.cs
+C:\Users\Curro\source\repos\Practica5\Practica5\obj\Debug\Practica5_MarkupCompile.cache
+C:\Users\Curro\source\repos\Practica5\Practica5\obj\Debug\Practica5_MarkupCompile.lref
+C:\Users\Curro\source\repos\Practica5\Practica5\bin\Debug\Practica5.exe.config
+C:\Users\Curro\source\repos\Practica5\Practica5\bin\Debug\Practica5.exe
+C:\Users\Curro\source\repos\Practica5\Practica5\bin\Debug\Practica5.pdb
+C:\Users\Curro\source\repos\Practica5\Practica5\obj\Debug\Horas.baml
+C:\Users\Curro\source\repos\Practica5\Practica5\obj\Debug\MainWindow.baml
+C:\Users\Curro\source\repos\Practica5\Practica5\obj\Debug\Teatro.baml
+C:\Users\Curro\source\repos\Practica5\Practica5\obj\Debug\Practica5.g.resources
+C:\Users\Curro\source\repos\Practica5\Practica5\obj\Debug\Practica5.Properties.Resources.resources
+C:\Users\Curro\source\repos\Practica5\Practica5\obj\Debug\Practica5.csproj.GenerateResource.cache
+C:\Users\Curro\source\repos\Practica5\Practica5\obj\Debug\Practica5.csproj.CoreCompileInputs.cache
+C:\Users\Curro\source\repos\Practica5\Practica5\obj\Debug\Practica5.exe
+C:\Users\Curro\source\repos\Practica5\Practica5\obj\Debug\Practica5.pdb
+C:\Users\Curro\Desktop\2º DAM\Desarrollo de interfaces\practicas\Practica5\Practica5\obj\Debug\Practica5.csprojAssemblyReference.cache
+C:\Users\Curro\Desktop\2º DAM\Desarrollo de interfaces\practicas\Practica5\Practica5\obj\Debug\Horas.g.cs
+C:\Users\Curro\Desktop\2º DAM\Desarrollo de interfaces\practicas\Practica5\Practica5\obj\Debug\MainWindow.g.cs
+C:\Users\Curro\Desktop\2º DAM\Desarrollo de interfaces\practicas\Practica5\Practica5\obj\Debug\Teatro.g.cs
+C:\Users\Curro\Desktop\2º DAM\Desarrollo de interfaces\practicas\Practica5\Practica5\obj\Debug\App.g.cs
+C:\Users\Curro\Desktop\2º DAM\Desarrollo de interfaces\practicas\Practica5\Practica5\obj\Debug\Practica5_MarkupCompile.cache
+C:\Users\Curro\Desktop\2º DAM\Desarrollo de interfaces\practicas\Practica5\Practica5\obj\Debug\Practica5_MarkupCompile.lref
+C:\Users\Curro\Desktop\2º DAM\Desarrollo de interfaces\practicas\Practica5\Practica5\obj\Debug\Practica5.exe
+C:\Users\Curro\Desktop\2º DAM\Desarrollo de interfaces\practicas\Practica5\Practica5\obj\Debug\Practica5.pdb
+C:\Users\Curro\Desktop\2º DAM\Desarrollo de interfaces\practicas\Practica5\Practica5\bin\Debug\Practica5.exe.config
+C:\Users\Curro\Desktop\2º DAM\Desarrollo de interfaces\practicas\Practica5\Practica5\bin\Debug\Practica5.exe
+C:\Users\Curro\Desktop\2º DAM\Desarrollo de interfaces\practicas\Practica5\Practica5\bin\Debug\Practica5.pdb
+C:\Users\Curro\Desktop\2º DAM\Desarrollo de interfaces\practicas\Practica5\Practica5\obj\Debug\Horas.baml
+C:\Users\Curro\Desktop\2º DAM\Desarrollo de interfaces\practicas\Practica5\Practica5\obj\Debug\MainWindow.baml
+C:\Users\Curro\Desktop\2º DAM\Desarrollo de interfaces\practicas\Practica5\Practica5\obj\Debug\Teatro.baml
+C:\Users\Curro\Desktop\2º DAM\Desarrollo de interfaces\practicas\Practica5\Practica5\obj\Debug\Practica5.g.resources
+C:\Users\Curro\Desktop\2º DAM\Desarrollo de interfaces\practicas\Practica5\Practica5\obj\Debug\Practica5.Properties.Resources.resources
+C:\Users\Curro\Desktop\2º DAM\Desarrollo de interfaces\practicas\Practica5\Practica5\obj\Debug\Practica5.csproj.GenerateResource.cache
+C:\Users\Curro\Desktop\2º DAM\Desarrollo de interfaces\practicas\Practica5\Practica5\obj\Debug\Practica5.csproj.CoreCompileInputs.cache
