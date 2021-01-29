@@ -1,0 +1,13 @@
+C:\Users\Curro\source\repos\Examen29-01-2021\Examen29-01-2021\bin\Debug\Examen29-01-2021.exe.config
+C:\Users\Curro\source\repos\Examen29-01-2021\Examen29-01-2021\bin\Debug\Examen29-01-2021.exe
+C:\Users\Curro\source\repos\Examen29-01-2021\Examen29-01-2021\bin\Debug\Examen29-01-2021.pdb
+C:\Users\Curro\source\repos\Examen29-01-2021\Examen29-01-2021\obj\Debug\Examen29-01-2021.csprojAssemblyReference.cache
+C:\Users\Curro\source\repos\Examen29-01-2021\Examen29-01-2021\obj\Debug\Examen29_01_2021.Form1.resources
+C:\Users\Curro\source\repos\Examen29-01-2021\Examen29-01-2021\obj\Debug\Examen29_01_2021.Properties.Resources.resources
+C:\Users\Curro\source\repos\Examen29-01-2021\Examen29-01-2021\obj\Debug\Examen29-01-2021.csproj.GenerateResource.cache
+C:\Users\Curro\source\repos\Examen29-01-2021\Examen29-01-2021\obj\Debug\Examen29-01-2021.csproj.CoreCompileInputs.cache
+C:\Users\Curro\source\repos\Examen29-01-2021\Examen29-01-2021\obj\Debug\Examen29-01-2021.exe
+C:\Users\Curro\source\repos\Examen29-01-2021\Examen29-01-2021\obj\Debug\Examen29-01-2021.pdb
+C:\Users\Curro\source\repos\Examen29-01-2021\Examen29-01-2021\obj\Debug\Examen29_01_2021.AltaCliente.resources
+C:\Users\Curro\source\repos\Examen29-01-2021\Examen29-01-2021\obj\Debug\Examen29_01_2021.Alquilar.resources
+C:\Users\Curro\source\repos\Examen29-01-2021\Examen29-01-2021\obj\Debug\Examen29_01_2021.Devolver.resources
