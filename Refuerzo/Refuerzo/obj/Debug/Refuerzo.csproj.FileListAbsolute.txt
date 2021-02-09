@@ -1,0 +1,11 @@
+C:\Users\Curro\source\repos\Refuerzo\Refuerzo\bin\Debug\Refuerzo.exe.config
+C:\Users\Curro\source\repos\Refuerzo\Refuerzo\bin\Debug\Refuerzo.exe
+C:\Users\Curro\source\repos\Refuerzo\Refuerzo\bin\Debug\Refuerzo.pdb
+C:\Users\Curro\source\repos\Refuerzo\Refuerzo\obj\Debug\Refuerzo.csprojAssemblyReference.cache
+C:\Users\Curro\source\repos\Refuerzo\Refuerzo\obj\Debug\Refuerzo.Form1.resources
+C:\Users\Curro\source\repos\Refuerzo\Refuerzo\obj\Debug\Refuerzo.Properties.Resources.resources
+C:\Users\Curro\source\repos\Refuerzo\Refuerzo\obj\Debug\Refuerzo.csproj.GenerateResource.cache
+C:\Users\Curro\source\repos\Refuerzo\Refuerzo\obj\Debug\Refuerzo.csproj.CoreCompileInputs.cache
+C:\Users\Curro\source\repos\Refuerzo\Refuerzo\obj\Debug\Refuerzo.exe
+C:\Users\Curro\source\repos\Refuerzo\Refuerzo\obj\Debug\Refuerzo.pdb
+C:\Users\Curro\source\repos\Refuerzo\Refuerzo\obj\Debug\Refuerzo.Form2.resources
