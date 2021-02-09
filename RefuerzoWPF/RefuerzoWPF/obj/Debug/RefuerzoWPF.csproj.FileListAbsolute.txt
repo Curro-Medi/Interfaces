@@ -1,0 +1,17 @@
+C:\Users\Curro\source\repos\RefuerzoWPF\RefuerzoWPF\obj\Debug\RefuerzoWPF.csprojAssemblyReference.cache
+C:\Users\Curro\source\repos\RefuerzoWPF\RefuerzoWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Curro\source\repos\RefuerzoWPF\RefuerzoWPF\obj\Debug\WPF2.g.cs
+C:\Users\Curro\source\repos\RefuerzoWPF\RefuerzoWPF\obj\Debug\App.g.cs
+C:\Users\Curro\source\repos\RefuerzoWPF\RefuerzoWPF\obj\Debug\RefuerzoWPF_MarkupCompile.cache
+C:\Users\Curro\source\repos\RefuerzoWPF\RefuerzoWPF\obj\Debug\RefuerzoWPF_MarkupCompile.lref
+C:\Users\Curro\source\repos\RefuerzoWPF\RefuerzoWPF\bin\Debug\RefuerzoWPF.exe.config
+C:\Users\Curro\source\repos\RefuerzoWPF\RefuerzoWPF\bin\Debug\RefuerzoWPF.exe
+C:\Users\Curro\source\repos\RefuerzoWPF\RefuerzoWPF\bin\Debug\RefuerzoWPF.pdb
+C:\Users\Curro\source\repos\RefuerzoWPF\RefuerzoWPF\obj\Debug\MainWindow.baml
+C:\Users\Curro\source\repos\RefuerzoWPF\RefuerzoWPF\obj\Debug\WPF2.baml
+C:\Users\Curro\source\repos\RefuerzoWPF\RefuerzoWPF\obj\Debug\RefuerzoWPF.g.resources
+C:\Users\Curro\source\repos\RefuerzoWPF\RefuerzoWPF\obj\Debug\RefuerzoWPF.Properties.Resources.resources
+C:\Users\Curro\source\repos\RefuerzoWPF\RefuerzoWPF\obj\Debug\RefuerzoWPF.csproj.GenerateResource.cache
+C:\Users\Curro\source\repos\RefuerzoWPF\RefuerzoWPF\obj\Debug\RefuerzoWPF.csproj.CoreCompileInputs.cache
+C:\Users\Curro\source\repos\RefuerzoWPF\RefuerzoWPF\obj\Debug\RefuerzoWPF.exe
+C:\Users\Curro\source\repos\RefuerzoWPF\RefuerzoWPF\obj\Debug\RefuerzoWPF.pdb
