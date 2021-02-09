@@ -1,0 +1,54 @@
+﻿<Window x:Class="RefuerzoWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RefuerzoWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Conmutar" HorizontalAlignment="Left" Margin="439,361,0,0" VerticalAlignment="Top" Width="91" Height="34" x:Name="btnConmutar" Click="btnConmutar_Click"/>
+        <Button Content="Agregar" HorizontalAlignment="Left" Margin="179,355,0,0" VerticalAlignment="Top" Width="96" Height="36" RenderTransformOrigin="0.5,0.5" x:Name="btnAgregar" Click="btnAgregar_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="14.564"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button Content="Ir a WPF 2" HorizontalAlignment="Left" Margin="654,320,0,0" VerticalAlignment="Top" Width="130" Height="90" x:Name="btnWPF2" Click="btnWPF2_Click"/>
+        <ListBox HorizontalAlignment="Left" Height="238" Margin="231,71,0,0" VerticalAlignment="Top" Width="257" RenderTransformOrigin="0.5,0.5" x:Name="Lista">
+            <ListBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="13.372"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ListBox.RenderTransform>
+        </ListBox>
+        <ComboBox HorizontalAlignment="Left" Margin="28,152,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.5,0.5" x:Name="Combobo">
+            <ComboBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-5.071"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ComboBox.RenderTransform>
+        </ComboBox>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="616,169,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.5,0.5" x:Name="Textbo" TextChanged="Textbo_TextChanged">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="12.348"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+
+    </Grid>
+</Window>
