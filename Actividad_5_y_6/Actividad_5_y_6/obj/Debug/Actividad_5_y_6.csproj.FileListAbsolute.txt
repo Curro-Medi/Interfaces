@@ -1,0 +1,15 @@
+C:\Users\Curro\source\repos\Actividad_5_y_6\Actividad_5_y_6\bin\Debug\Actividad_5_y_6.exe.config
+C:\Users\Curro\source\repos\Actividad_5_y_6\Actividad_5_y_6\bin\Debug\Actividad_5_y_6.exe
+C:\Users\Curro\source\repos\Actividad_5_y_6\Actividad_5_y_6\bin\Debug\Actividad_5_y_6.pdb
+C:\Users\Curro\source\repos\Actividad_5_y_6\Actividad_5_y_6\obj\Debug\Actividad_5_y_6.csprojAssemblyReference.cache
+C:\Users\Curro\source\repos\Actividad_5_y_6\Actividad_5_y_6\obj\Debug\MainWindow.g.cs
+C:\Users\Curro\source\repos\Actividad_5_y_6\Actividad_5_y_6\obj\Debug\App.g.cs
+C:\Users\Curro\source\repos\Actividad_5_y_6\Actividad_5_y_6\obj\Debug\Actividad_5_y_6_MarkupCompile.cache
+C:\Users\Curro\source\repos\Actividad_5_y_6\Actividad_5_y_6\obj\Debug\Actividad_5_y_6_MarkupCompile.lref
+C:\Users\Curro\source\repos\Actividad_5_y_6\Actividad_5_y_6\obj\Debug\MainWindow.baml
+C:\Users\Curro\source\repos\Actividad_5_y_6\Actividad_5_y_6\obj\Debug\Actividad_5_y_6.g.resources
+C:\Users\Curro\source\repos\Actividad_5_y_6\Actividad_5_y_6\obj\Debug\Actividad_5_y_6.Properties.Resources.resources
+C:\Users\Curro\source\repos\Actividad_5_y_6\Actividad_5_y_6\obj\Debug\Actividad_5_y_6.csproj.GenerateResource.cache
+C:\Users\Curro\source\repos\Actividad_5_y_6\Actividad_5_y_6\obj\Debug\Actividad_5_y_6.csproj.CoreCompileInputs.cache
+C:\Users\Curro\source\repos\Actividad_5_y_6\Actividad_5_y_6\obj\Debug\Actividad_5_y_6.exe
+C:\Users\Curro\source\repos\Actividad_5_y_6\Actividad_5_y_6\obj\Debug\Actividad_5_y_6.pdb
